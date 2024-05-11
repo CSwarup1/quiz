@@ -1,0 +1,5 @@
+question_data=[{"category" : "Computer Science", "type":"boolean", "difficulty":"medium", "question":"python programs run slower than java codes", "correct_answer":"true", "incorrect_answers":["False"]},
+               {"category" : "Computer Science", "type":"boolean", "difficulty":"medium", "question":"python is a high level language", "correct_answer":"true", "incorrect_answers":["False"]},
+               {"category" : "Computer Science", "type":"boolean", "difficulty":"medium", "question":"python was developed by Guido van Rossum", "correct_answer":"true", "incorrect_answers":["False"]},
+               {"category" : "Computer Science", "type":"boolean", "difficulty":"medium", "question":"python library is very portable and cross platform compatible with UNIX, windows and Macnitosh.", "correct_answer":"true", "incorrect_answers":["False"]},
+               {"category" : "Computer Science", "type":"boolean", "difficulty":"medium", "question":"every variable in python holds an instance of an object", "correct_answer":"true", "incorrect_answers":["False"]}]
